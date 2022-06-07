@@ -14,4 +14,4 @@ Para rodar a aplicação, na pasta frontend abrir um terminal e digitar:
 
 entrar no diretório do arquivo e executar o comando:
 
-`ng serve`
+`ng serve --open`
